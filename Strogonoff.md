@@ -1,6 +1,6 @@
 <h1>Strogonoff de Frango</h1>
 
-<h2>**Ingredientes**</h2>
+<h2>Ingredientes</h2>
 - 3 peitos de frango cortados em cubos 
 - 1 dente de alho picado
 - sal e pimenta a gosto
@@ -13,7 +13,7 @@
 - 1 copo de creme de leite
 - batata palha a gosto
 
-<h2>**Preparo**</h2>
+<h2>Preparo</h2>
 
 1.Em uma panela, misture o frango, o alho, a maionese, o sal e a pimenta.
 
