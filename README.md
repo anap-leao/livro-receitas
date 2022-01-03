@@ -1,7 +1,7 @@
-#LIVRO DE RECEITAS
+LIVRO DE RECEITAS
 
-####Olá, seja bem vindo(a) ao meu livro de receitas
+Olá, seja bem vindo(a) ao meu livro de receitas
 
-##Strogonoff de Frango##
-##Lasanha à Bolonhesa##
+Strogonoff de Frango
 
+Lasanha à Bolonhesa
