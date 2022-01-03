@@ -1,7 +1,7 @@
-#LIVRO DE RECEITAS
+<h1>LIVRO DE RECEITAS</h1>
 
-####Ol·, seja bem vindo(a) ao meu livro de receitas
+<h3>Ol√°, seja bem vindo(a) ao meu livro de receitas</h3>
 
-##Strogonoff de Frango##
-##Lasanha ‡ Bolonhesa##
+<h2>Strogonoff de Frango</h2>
+
 
